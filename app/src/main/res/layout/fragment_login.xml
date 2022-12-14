@@ -22,7 +22,7 @@
     <Button
         android:id="@+id/driver_login_btn"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
+        android:layout_width= "150dp"
         android:text="Driver Login"
         android:layout_marginVertical="20dp"
         app:layout_constraintEnd_toEndOf="parent"

@@ -4,6 +4,34 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Asus/AppData/Local/Android/Sdk/platforms/android-33/data/res/layout/simple_list_item_1.xml" value="0.1" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout-v31/fragment_add_request.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/activity_main.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/chat_message_view.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_add_request.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_cabs.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_chat.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_driver.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_driver_live_cab_details.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_driver_login.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_driver_profile.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_driver_request_details.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_live_cabs.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_login.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_my_details.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_request.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_request_driver.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_ride_details.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_splash_screen.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_student_live_cab_details.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_student_profile.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_student_request_details.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/fragment_upcoming.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/live_cab_card.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/livecab_details_card.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/request_cab_card.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/request_details_card.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/request_driver_card.xml" value="0.325" />
+        <entry key="..\:/Users/jaise/Desktop/ryder/app/src/main/res/layout/upcoming_cab_card.xml" value="0.325" />
         <entry key="..\:/Users/srida/ryder/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/srida/ryder/app/src/main/res/drawable/avatar_background.xml" value="0.1" />
         <entry key="..\:/Users/srida/ryder/app/src/main/res/drawable/ic_launcher_background.xml" value="0.137" />

@@ -17,22 +17,23 @@
             android:layout_marginTop="30dp"
             android:id="@+id/driverRequestDetailsText"
             android:layout_centerHorizontal="true"/>
+
         <include
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
             android:id="@+id/driverRequestDetailsCard"
             layout="@layout/request_details_card"
-            android:layout_below="@id/driverRequestDetailsText"
-            />
-        <com.google.android.material.button.MaterialButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Accept"
+            android:layout_below="@id/driverRequestDetailsText"
+            android:layout_marginTop="30dp" />
+
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/acceptButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_below="@id/driverRequestDetailsCard"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="30dp"/>
+            android:layout_marginTop="30dp"
+            android:text="Accept" />
     </RelativeLayout>
 
 </FrameLayout>
